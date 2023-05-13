@@ -14,7 +14,6 @@ public class App {
     public static void main(String[] args) {
         System.out.println(MESSAGE);
         int num=10;
-        num==+20;
         System.out.println(num);
     }
 
